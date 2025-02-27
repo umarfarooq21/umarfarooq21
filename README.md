@@ -12,6 +12,7 @@ I'm a Senior Software Engineer with expertise in developing robust, scalable, an
 **Programming Languages:** <br>
 ![Objective-C](https://img.shields.io/badge/objective--c-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 **Interface:** <br>
 ![UIKit](https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
